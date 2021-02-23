@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\228_0\source\repos\DM_Lab1\DM_Lab1\main.cpp(95): warning C4715: List<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::operator[]: значение возвращается не при всех путях выполнения
+  DM_Lab1.vcxproj -> C:\Users\228_0\source\repos\DM_Lab1\Debug\DM_Lab1.exe
